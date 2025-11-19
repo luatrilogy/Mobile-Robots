@@ -3,7 +3,7 @@ import os
 import sys
 
 # 👇 Change this to the folder where your repo lives
-REPO_PATH = r"C:\Users\jonat\Documents\Mobile-Robots"
+REPO_PATH = r"your\path\to\repo\"
 
 
 def main():
