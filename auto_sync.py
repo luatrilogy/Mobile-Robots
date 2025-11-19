@@ -2,7 +2,7 @@ import git
 import os
 
 # 👇 Change this to your repo folder
-REPO_PATH = r"C:\Users\jonat\Documents\Mobile-Robots"
+REPO_PATH = r"C:your\path\to\repo\"
 
 
 def main():
