@@ -37,7 +37,7 @@ def main():
     print(f"✅ Committed with message: {msg!r}")
 
     # Push to current branch
-    origin = repo.remote(name="origin")
+    origin = repo.remote(name="Codes")
     branch = repo.active_branch.name
     origin.push(branch)
     print(f"🚀 Pushed to origin/{branch}")
